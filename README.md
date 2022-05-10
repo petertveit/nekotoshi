@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EspressoNakamoto
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on small webprojects
+- 📫 You can reach me on Twitter @EspressoNaka
