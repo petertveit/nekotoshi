@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EspressoNakamoto
+- 👋 Hi, I’m @nekotoshi
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on small webprojects
-- 📫 You can reach me on Twitter @EspressoNaka
+- 📫 You can reach me on Twitter @nekotoshii
