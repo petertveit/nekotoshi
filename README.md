@@ -2,4 +2,4 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on small webprojects
-- 📫 You can reach me on Twitter @nekotoshii
+- 📫 You can reach me on Twitter @peter_tveit
